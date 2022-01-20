@@ -1,0 +1,35 @@
+{
+  "db": {
+    "localurl": "mongodb://localhost:27017/suhaviBooks",
+    "url": "mongodb://localhost:27017/suhaviBooks",
+    "localurl1": "mongodb+srv://app-super-admin:XDVsT1EGpDtDLRWT@cluster0.bon5k.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "url1": "mongodb+srv://app-super-admin:XDVsT1EGpDtDLRWT@cluster0.bon5k.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  },
+  "secret": "suhaviAudioBooks",
+  "aws": {
+    "bucketName": "suhaviaudiobooks",
+    "accessKeyId": "AKIA6HP7GHXHUGGHXBDK",
+    "secretAccessKey": "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"
+  },
+  "snsKeys": {
+    "accessKeyId": "AKIA6HP7GHXHUGGHXBDK",
+    "secretAccessKey": "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"
+  },
+  "sesKeys": {
+    "accessKeyId": "AKIA6HP7GHXHUGGHXBDK",
+    "secretAccessKey": "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"
+  },
+  "twilio": {
+    "twilioAccountSid": "AC45b6d5b707bced7dff06ff66114a1068",
+    "twilioAuthToken": "4b52041ff21b6e903256757d3eb4aeca"
+  },
+  "google": {
+    "clientID": "  ",
+    "clientSecret": "  ",
+    "callbackURL": "  "
+  },
+  "razorpay": {
+    "key": "rzp_test_eVen98lpACmqrU",
+    "secret": "FwnLRM74cosL8josT7SjHjwS"
+  }
+}

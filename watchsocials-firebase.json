@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "watchsocials",
+  "private_key_id": "51e6d2eb753478a87c536e18bf2ad8dec21710af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDj/e8mWsFu5KlZ\nG6aJWjXB7JW4XOclVCdPY/FDxSark+LjcUGmEiBtVG6/GPWqDTjeJcp7hXdfEe42\nLVDTsqugNKuYpyLaBJDwGYOpq2DNyTZZ9SYvRty91Ju3ZA9VpoWrobAQLRhFdlZM\nwPkpiGXF98JchTkq+jh+ZG596N/E2ii3TS0XgDpaZWR1mrZC198Pp1uzoC6jxHOi\nvMRwiW+5dvefRCCoxk8TpgoLC7ODTVF+SfWHbiLZQV0zsw+c+k7bN9pz3gT7quw5\n+h3kOjsK6tP9ZNBF8nns/jXfjA66RdWAhfWW2efYuYbv8OVnr2iaeF9QkcFPgGNt\ndbuwSJy9AgMBAAECggEAHY+z3fu/f/LrGFAzADUvqjTUVuLI37ixHiSdyEU8Vdvn\ne8kYE4HfLX3YnDOOyt1LBdbNkcWE7FFFW0X16HUOtseNhk4JgU49Qrx0K2A6vYP8\n5Z4ZNOERxxVVmWpCaL8eLtpYm0hVkNAesXYF+IIkfA47Z8aoWm+2OoEoKHA072+B\nWAz9+le8Wq6IaA8Aed2mc4lcBzp1heeFenzwlER2nEKzdmPajN61W1GI84jynl8v\nvoK/EaaeZia5EOnVr1iAuTIWIlFbOj6quWTUAMEYIAfvzOYE+Wl2V0T4IPgWiFx+\ne3NPH3X2JCdgADhVSuUypSSYIF4qDYphiDM5lMed+wKBgQDzmWQV15+5fardAy3r\nnmeZYI8K1D8SInNNTZQIgCQnEuBetV1ZwI8zX0v8OAFTurOKTM+IrWxKKtCvdusG\nNEGIsh5TPNj4I5fNfd720tXNxQmSyl7zt8XFL2G13DjuWg92IjajOCX3EmxuDprt\npjYK17kn/tgRs6Te4m+IHr7HPwKBgQDvmSXexG1amqJs24oDY7zzHdxcuYaYoWZ/\ndi4jyz+ViroYPZkz+S8K5KH869pNfLfH1cX+weKiQ8nkStxqFGCAVh1Mk5lJSjJz\n2vvx1Ph8uV41nuGX0uUl37CsPZU1eyEu6V1y6drM9z2+OgiDHTWn3JaY8gExkYLS\nuApha8D5AwKBgAsDbV37cLI/N0FkymezsrVhgzYXIH7eZd4h2saDnJ7ToKdHhd/v\n78l/znypv42cjE99Z4ijZpj31JWKR9fw9uGKRAq5XonhehSFU1ZPc/EormUflyln\nrp5apQ1G1qAYHEjYBSZd/IFuKM7VBDYoZJsa47kmMXijaZnWHPrHgRKbAoGAXA1v\n4k1/Yg8FFmOme7TnFFTFpA5Xau6frZrfETt2W2LoKoYIBVLYQwwiPET1I04mYa19\nG2qsQwFeYMpuModPqB7ttM0EWIccKSzaHUhgi7LAQkOfkrAg/9MYUqR6XgjHb/mS\nwKKeQJ9A5oPvX0hqo+p5JZvc34lzRLgWrOU0R7cCgYA6Dryl5IeR9TfVHT2A/oGR\nettS2L8BmBn39XZhUAiVkDv+Onf+QiHJgQn2OzVW2rS/omZAM4VitZY3tUs+LyB7\nouj7JS/lzc96W0F7n5gg0fzg6DyYUrpg61eWuG3t6fKNiFtXpNUFfEeov3sejU5Y\nD2y7WvK/8GNUOeKXWr3o9A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2soia@watchsocials.iam.gserviceaccount.com",
+  "client_id": "105556381947529228116",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2soia%40watchsocials.iam.gserviceaccount.com",
+  "sender_id": "318797501484"
+}
